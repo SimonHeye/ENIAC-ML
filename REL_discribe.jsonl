@@ -1,0 +1,682 @@
+{
+  "P1435": [
+    "heritage designation",
+    " The term 'heritage designation' denotes the official acknowledgment or classification of [HEAD] as possessing cultural or historical value, highlighting its importance within the specified heritage or preservation context of [TAIL]",
+    " the official acknowledgment or classification of [HEAD] as possessing cultural or historical value, highlighting its importance within the specified heritage or preservation context of [TAIL]"
+  ],
+  "P177": [
+    "crosses",
+    " The term 'crosses' denotes the action or existence of [HEAD] moving across a specified point or line, highlighting the spatial connection or intersection within the specified domain or context of [TAIL]",
+    " the action or existence of [HEAD] moving across a specified point or line, highlighting the spatial connection or intersection within the specified domain or context of [TAIL]"
+  ],
+  "P131": [
+    "located in the administrative territorial entity",
+    " The term 'located in the administrative territorial entity' denotes that [HEAD] is positioned or situated geographically within the defined administrative region or entity of [TAIL]",
+    " that [HEAD] is positioned or situated geographically within the defined administrative region or entity of [TAIL]"
+  ],
+  "P58": [
+    "screenwriter",
+    " The term 'screenwriter' denotes the role played by [HEAD] in creating the written narrative and dialogue for visual storytelling, emphasizing their contribution to the cinematic or television context within the specified domain or context of [TAIL]",
+    " the role played by [HEAD] in creating the written narrative and dialogue for visual storytelling, emphasizing their contribution to the cinematic or television context within the specified domain or context of [TAIL]"
+  ],
+  "P105": [
+    "taxon rank",
+    " The term 'taxon rank' denotes the hierarchical position or classification assigned to [HEAD] within the field of taxonomy, highlighting its place in the systematic organization of living organisms within the specified domain or context of [TAIL]",
+    " the hierarchical position or classification assigned to [HEAD] within the field of taxonomy, highlighting its place in the systematic organization of living organisms within the specified domain or context of [TAIL]"
+  ],
+  "P931": [
+    "place served by transport hub",
+    " The term 'place served by transport hub' denotes the geographical region associated with [HEAD] that benefits from the transportation services provided by the nearby hub, highlighting the connectivity within the specified transportation or travel context of [TAIL]",
+    " the geographical region associated with [HEAD] that benefits from the transportation services provided by the nearby hub, highlighting the connectivity within the specified transportation or travel context of [TAIL]"
+  ],
+  "P412": [
+    "voice type",
+    " The term 'voice type' denotes the classification of [HEAD]'s singing voice based on factors such as pitch, range, and timbre, emphasizing their distinctive vocal attributes within the specified musical or vocal context of [TAIL]",
+    " the classification of [HEAD]'s singing voice based on factors such as pitch, range, and timbre, emphasizing their distinctive vocal attributes within the specified musical or vocal context of [TAIL]"
+  ],
+  "P175": [
+    "performer",
+    " The term 'performer' denotes the active involvement of [HEAD] in entertaining or engaging an audience through various artistic expressions, emphasizing their role within the specified domain or context of [TAIL]",
+    " the active involvement of [HEAD] in entertaining or engaging an audience through various artistic expressions, emphasizing their role within the specified domain or context of [TAIL]"
+  ],
+  "P6": [
+    "head of government",
+    " The term 'head of government' denotes the significant leadership role held by [HEAD] in overseeing the administration and policy direction within the specified government or political context of [TAIL]",
+    " the significant leadership role held by [HEAD] in overseeing the administration and policy direction within the specified government or political context of [TAIL]"
+  ],
+  "P1344": [
+    "participant of",
+    " The term 'participant of' denotes the engagement or involvement of [HEAD] in the specified event or activity, highlighting their active role within the given domain or context of [TAIL]",
+    " the engagement or involvement of [HEAD] in the specified event or activity, highlighting their active role within the given domain or context of [TAIL]"
+  ],
+  "P27": [
+    "country of citizenship",
+    " The term 'country of citizenship' denotes the official relationship between [HEAD] and the nation or state to which they belong, highlighting their legal and political connection within the specified domain or context of [TAIL]",
+    " the official relationship between [HEAD] and the nation or state to which they belong, highlighting their legal and political connection within the specified domain or context of [TAIL]"
+  ],
+  "P31": [
+    "instance of",
+    " The term 'instance of' denotes the particular manifestation or realization of [HEAD] as a member or example of a larger category, highlighting its specific nature within the specified domain or context of [TAIL]",
+    " the particular manifestation or realization of [HEAD] as a member or example of a larger category, highlighting its specific nature within the specified domain or context of [TAIL]"
+  ],
+  "P1346": [
+    "winner",
+    " The term 'winner' denotes the accomplishment or attainment of a positive outcome by [HEAD] within the specified competition, emphasizing their success within the given domain or context of [TAIL]",
+    " the accomplishment or attainment of a positive outcome by [HEAD] within the specified competition, emphasizing their success within the given domain or context of [TAIL]"
+  ],
+  "P750": [
+    "distributor",
+    " The term 'distributor' denotes the role played by [HEAD] in the distribution process, emphasizing their involvement in making products or content available to a wider audience within the specified domain or context of [TAIL]",
+    " the role played by [HEAD] in the distribution process, emphasizing their involvement in making products or content available to a wider audience within the specified domain or context of [TAIL]"
+  ],
+  "P974": [
+    "tributary",
+    " The term 'tributary' denotes the subordinate nature of [HEAD], which contributes its water to the larger watercourse, highlighting the hydrological relationship within the specified domain or context of [TAIL]",
+    " the subordinate nature of [HEAD], which contributes its water to the larger watercourse, highlighting the hydrological relationship within the specified domain or context of [TAIL]"
+  ],
+  "P123": [
+    "publisher",
+    " The term 'publisher' denotes the role played by [HEAD] in bringing content to the public, emphasizing their involvement in the dissemination and presentation of information or creative works within the specified domain or context of [TAIL]",
+    " the role played by [HEAD] in bringing content to the public, emphasizing their involvement in the dissemination and presentation of information or creative works within the specified domain or context of [TAIL]"
+  ],
+  "P150": [
+    "contains administrative territorial entity",
+    " The term 'contains administrative territorial entity' denotes the broader geographical or administrative context associated with [HEAD], emphasizing its role in encompassing distinct territorial units or divisions within the specified domain or context of [TAIL]",
+    " the broader geographical or administrative context associated with [HEAD], emphasizing its role in encompassing distinct territorial units or divisions within the specified domain or context of [TAIL]"
+  ],
+  "P176": [
+    "manufacturer",
+    " The term 'manufacturer' denotes the role played by [HEAD] in the creation and assembly of various items, emphasizing their involvement in the production process within the specified domain or context of [TAIL]",
+    " the role played by [HEAD] in the creation and assembly of various items, emphasizing their involvement in the production process within the specified domain or context of [TAIL]"
+  ],
+  "P407": [
+    "language of work or name",
+    " The term 'language of work or name' denotes the linguistic aspect connected to [HEAD], emphasizing the language in which its content, works, or designation is presented or identified within the specified domain or context of [TAIL]",
+    " the linguistic aspect connected to [HEAD], emphasizing the language in which its content, works, or designation is presented or identified within the specified domain or context of [TAIL]"
+  ],
+  "P84": [
+    "architect",
+    " The term 'architect' denotes that [HEAD] possesses expertise in architectural principles, combining aesthetics, functionality, and structural considerations in the creation of context of [TAIL]",
+    " that [HEAD] possesses expertise in architectural principles, combining aesthetics, functionality, and structural considerations in the creation of physical environments"
+  ],
+  "P551": [
+    "residence",
+    " The term 'residence' denotes the location or dwelling place of [HEAD], emphasizing their connection to a particular living space within the specified domain or context of [TAIL]",
+    " the location or dwelling place of [HEAD], emphasizing their connection to a particular living space within the specified domain or context of [TAIL]"
+  ],
+  "P17": [
+    "country",
+    " The term 'country' denotes the geographical and political entity represented by [HEAD], typically characterized by defined borders, government, and distinct identity of [TAIL]",
+    " the geographical and political entity represented by [HEAD], typically characterized by defined borders, government, and distinct identity"
+  ],
+  "P466": [
+    "occupant",
+    " The term 'occupant' denotes the person or entity in active possession or habitation of the designated area of [TAIL] associated with [HEAD]",
+    " the person or entity in active possession or habitation of the designated area associated with [HEAD]"
+  ],
+  "P361": [
+    "part of",
+    " The term 'part of' denotes the relationship where [HEAD] is an integral element or division within the specified larger entity, emphasizing its role within the broader framework or context of [TAIL]",
+    " the relationship where [HEAD] is an integral element or division within the specified larger entity, emphasizing its role within the broader framework or context of [TAIL]"
+  ],
+  "P106": [
+    "occupation",
+    " The term 'occupation' denotes the type of work, employment, or activity undertaken by [HEAD] as part of their regular duties or means of livelihood within the specified domain or context of [TAIL]",
+    " the type of work, employment, or activity undertaken by [HEAD] as part of their regular duties or means of livelihood"
+  ],
+  "P400": [
+    "platform",
+    " The term 'platform' denotes the structural support or technological environment provided by [HEAD] to facilitate specific functions, operations, or interactions related to [TAIL]",
+    " the structural support or technological environment provided by [HEAD] to facilitate specific functions, operations, or interactions related to [TAIL]"
+  ],
+  "P57": [
+    "director",
+    " The term 'director' denotes that [HEAD] holds a leadership role, providing direction and coordination to achieve specific goals or outcomes related to [TAIL]",
+    " that [HEAD] holds a leadership role, providing direction and coordination to achieve specific goals or outcomes related to [TAIL]"
+  ],
+  "P136": [
+    "genre",
+    " The term 'genre' denotes the classification or categorization of creative works, with [HEAD] embodying specific thematic or stylistic attributes within a particular artistic or entertainment domain of [TAIL]",
+    " the classification or categorization of creative works, with [HEAD] embodying specific thematic or stylistic attributes within a particular artistic or entertainment domain"
+  ],
+  "P937": [
+    "work location",
+    " The term 'work location' denotes the physical space associated with [HEAD]'s employment, business, or professional engagements within the specified domain or context of [TAIL]",
+    " the physical space associated with [HEAD]'s employment, business, or professional engagements"
+  ],
+  "P527": [
+    "has part",
+    " The term 'has part' denotes the ownership or inclusion of distinct elements or constituents by [HEAD], emphasizing its composition within the specified domain or context of [TAIL]",
+    " the ownership or inclusion of distinct elements or constituents by [HEAD], emphasizing its composition within the specified domain or context of [TAIL]"
+  ],
+  "P40": [
+    "child",
+    " The term 'child' denotes the familial or generational relationship where [HEAD] is the offspring of another entity, emphasizing the parent-child connection within the specified domain or context of [TAIL]",
+    " the familial or generational relationship where [HEAD] is the offspring of another entity, emphasizing the parent-child connection within the specified domain or context of [TAIL]"
+  ],
+  "P740": [
+    "location of formation",
+    " The term 'location of formation' denotes the specific geographical or spatial  domain or context of [TAIL] associated with the creation or origin of [HEAD]",
+    " the specific geographical or spatial context associated with the creation or origin of [HEAD]"
+  ],
+  "P156": [
+    "followed by",
+    " The term 'followed by' denotes the chronological or sequential relationship where [HEAD] occurs after the specified entity or event, emphasizing the order or succession within the specified domain or context of [TAIL]",
+    " the chronological or sequential relationship where [HEAD] occurs after the specified entity or event, emphasizing the order or succession within the specified domain or context of [TAIL]"
+  ],
+  "P3450": [
+    "sports season of league or competition",
+    " The term 'sports season of league or competition' denotes the timeframe within the specified domain or context of [TAIL] associated with scheduled matches, games, or competitions involving [HEAD]",
+    " the timeframe associated with scheduled matches, games, or competitions involving [HEAD]"
+  ],
+  "P118": [
+    "league",
+    " The term 'league' denotes that [HEAD] plays a role in structuring and managing competitive events, bringing together teams or participants within a specific domain or context of [TAIL]",
+    " that [HEAD] plays a role in structuring and managing competitive events, bringing together teams or participants within a specific domain or sports-related context"
+  ],
+  "P22": [
+    "father",
+    " The term 'father' denotes the familial or parental relationship where [HEAD] is the male figure responsible for the birth or creation of another entity, emphasizing the paternal connection within the specified domain or context of [TAIL]",
+    " the familial or parental relationship where [HEAD] is the male figure responsible for the birth or creation of another entity, emphasizing the paternal connection within the specified domain or context of [TAIL]"
+  ],
+  "P3373": [
+    "sibling",
+    " The term 'sibling' denotes the familial relationship between [HEAD] and the other [TAIL], indicating that they have the same parent or parents",
+    " the familial relationship between [HEAD] and the other individual, indicating that they have the same parent or parents"
+  ],
+  "P710": [
+    "participant",
+    " The term 'participant' denotes the role played by [HEAD] in engaging, contributing, or taking part in the specified event or context of [TAIL]",
+    " the role played by [HEAD] in engaging, contributing, or taking part in the specified event or context"
+  ],
+  "P674": [
+    "characters",
+    " The term 'characters' denotes the imagined or represented personas that contribute to the plot, themes, and development of the creative work of [TAIL] associated with [HEAD]",
+    " the imagined or represented personas that contribute to the plot, themes, and development of the creative work associated with [HEAD]"
+  ],
+  "P706": [
+    "located on terrain feature",
+    " The term 'located on terrain feature' denotes the spatial relationship where [HEAD] exists on a particular landscape or topographical element, emphasizing its geographical connection within the specified domain or context of [TAIL]",
+    " the spatial relationship where [HEAD] exists on a particular landscape or topographical element, emphasizing its geographical connection within the specified domain or context of [TAIL]"
+  ],
+  "P102": [
+    "member of political party",
+    " The term 'member of political party' denotes the formal association between [HEAD] and a particular political organization, indicating their alignment with the values, ideologies, or objectives of that party within the context of [TAIL]",
+    " the formal association between [HEAD] and a particular political organization, indicating their alignment with the values, ideologies, or objectives of that party"
+  ],
+  "P460": [
+    "said to be the same as",
+    " The term 'said to be the same as' denotes the assertion or statement suggesting the equivalence or identity between [HEAD] and the specified entity, emphasizing the perceived similarity within the specified domain or context of [TAIL]",
+    " the assertion or statement suggesting the equivalence or identity between [HEAD] and the specified entity, emphasizing the perceived similarity within the specified domain or context of [TAIL]"
+  ],
+  "P1303": [
+    "instrument",
+    " The term 'instrument' denotes that [HEAD] serves as a means or mechanism to achieve a particular goal or function within the specified domain or context of [TAIL]",
+    " that [HEAD] serves as a means or mechanism to achieve a particular goal or function within the specified domain or context of [TAIL]"
+  ],
+  "P59": [
+    "constellation",
+    " The term 'constellation' denotes the celestial relationship where [HEAD] represents a specific arrangement of stars that, when viewed from Earth, forms a distinctive pattern or shape within the specified astronomical or observational context of [TAIL]",
+    " the celestial relationship where [HEAD] represents a specific arrangement of stars that, when viewed from Earth, forms a distinctive pattern or shape within the specified astronomical or observational context of [TAIL]"
+  ],
+  "P178": [
+    "developer",
+    " The term 'developer' denotes that [HEAD] is engaged in activities related to innovation, construction, or enhancement within a specific domain or context of [TAIL]",
+    " that [HEAD] is engaged in activities related to innovation, construction, or enhancement within a specific domain or context"
+  ],
+  "P355": [
+    "subsidiary",
+    " The term 'subsidiary' denotes the subordinate relationship where [HEAD] is a separate entity under the ownership or control of another, emphasizing its status as a subsidiary within the specified business or organizational context of [TAIL]",
+    " the subordinate relationship where [HEAD] is a separate entity under the ownership or control of another, emphasizing its status as a subsidiary within the specified business or organizational context of [TAIL]"
+  ],
+  "P159": [
+    "headquarters location",
+    " The term 'headquarters location' denotes the primary or central position where [HEAD] conducts its administrative and organizational activities, emphasizing the significance of its headquarters within the specified business, organizational, or institutional context of [TAIL]",
+    " the primary or central position where [HEAD] conducts its administrative and organizational activities, emphasizing the significance of its headquarters within the specified business, organizational, or institutional context of [TAIL]"
+  ],
+  "P449": [
+    "original network",
+    " The term 'original network' denotes the initial broadcasting platform or channel where [HEAD]'s content was originally presented or released, emphasizing its association with a particular network within the specified media or entertainment context of [TAIL]",
+    " the initial broadcasting platform or channel where [HEAD]'s content was originally presented or released, emphasizing its association with a particular network within the specified media or entertainment context of [TAIL]"
+  ],
+  "P1411": [
+    "nominated for",
+    " The term 'nominated for' denotes the status of [HEAD] being proposed or suggested as a potential recipient of recognition or an award, emphasizing its candidacy within the specified domain or context of [TAIL]",
+    " the status of [HEAD] being proposed or suggested as a potential recipient of recognition or an award, emphasizing its candidacy within the specified domain or context of [TAIL]"
+  ],
+  "P1001": [
+    "applies to jurisdiction",
+    " The phrase 'applies to jurisdiction' denotes that rules, regulations, or principles associated with [HEAD] have applicability and impact within the defined legal or administrative region represented by [TAIL]",
+    " that rules, regulations, or principles associated with [HEAD] have applicability and impact within the defined legal or administrative region represented by [TAIL]"
+  ],
+  "P26": [
+    "spouse",
+    " The term 'spouse' denotes the marital relationship between [HEAD] and their partner, indicating the legally or socially acknowledged bond within the specified family or context of [TAIL]",
+    " the marital relationship between [HEAD] and their partner, indicating the legally or socially acknowledged bond within the specified family or context of [TAIL]"
+  ],
+  "P206": [
+    "located in or next to body of water",
+    " The phrase 'located in or next to a body of water' denotes the geographical positioning of [HEAD], indicating its adjacency to a water body of [TAIL]",
+    " the geographical positioning of [HEAD], indicating its adjacency to a water body"
+  ],
+  "P1877": [
+    "after a work by",
+    " The phrase 'after a work by' denotes the connection between [HEAD] and the original source of inspiration, acknowledging the influence or adaptation of the specified creative work within the specified domain or context of [TAIL]",
+    " the connection between [HEAD] and the original source of inspiration, acknowledging the influence or adaptation of the specified creative work within the specified domain or context of [TAIL]"
+  ],
+  "P25": [
+    "mother",
+    " The term 'mother' denotes the familial or parental relationship where [HEAD] is the female figure responsible for the birth or creation of another entity, emphasizing the maternal connection within the specified domain or context of [TAIL]",
+    " the familial or parental relationship where [HEAD] is the female figure responsible for the birth or creation of another entity, emphasizing the maternal connection within the specified domain or context of [TAIL]"
+  ],
+  "P1408": [
+    "licensed to broadcast to",
+    " The phrase 'licensed to broadcast to' denotes the official approval or license allowing [HEAD] to engage in the transmission of content to the designated audience or area, highlighting the regulatory aspect within the specified domain or context of [TAIL]",
+    " the official approval or license allowing [HEAD] to engage in the transmission of content to the designated audience or area, highlighting the regulatory aspect within the specified domain or context of [TAIL]"
+  ],
+  "P410": [
+    "military rank",
+    " The term 'military rank' denotes the level of authority, responsibility, and status associated with [HEAD] in the military, reflecting their position within the chain of command or organizational structure within the specified domain or context of [TAIL]",
+    " the level of authority, responsibility, and status associated with [HEAD] in the military, reflecting their position within the chain of command or organizational structure within the specified domain or context of [TAIL]"
+  ],
+  "P137": [
+    "operator",
+    " The term 'operator' denotes the active role played by [HEAD] in overseeing and managing the designated function or equipment within the specified domain or context of [TAIL]",
+    " the active role played by [HEAD] in overseeing and managing the designated function or equipment within the specified domain or context of [TAIL]"
+  ],
+  "P101": [
+    "field of work",
+    " The term 'field of work' denotes the particular domain or sector in which [HEAD] operates, emphasizing their professional involvement or expertise within the specified context or industry of [TAIL]",
+    " the particular domain or sector in which [HEAD] operates, emphasizing their professional involvement or expertise within the specified context or industry of [TAIL]"
+  ],
+  "P135": [
+    "movement",
+    " The term 'movement' denotes the organized or coordinated activities and initiatives embraced by [HEAD], reflecting a common objective or set of beliefs within the specified domain or context of [TAIL]",
+    " the organized or coordinated activities and initiatives embraced by [HEAD], reflecting a common objective or set of beliefs within the specified domain or context of [TAIL]"
+  ],
+  "P495": [
+    "country of origin",
+    " The phrase 'country of origin' denotes the geographical or national affiliation of [HEAD], emphasizing their connection to a specific country within the specified domain or context of [TAIL]",
+    " the geographical or national affiliation of [HEAD], emphasizing their connection to a specific country within the specified domain or context of [TAIL]"
+  ],
+  "P403": [
+    "mouth of the watercourse",
+    " The phrase 'mouth of the watercourse' denotes the [HEAD] associated with the confluence of the watercourse and the larger body of water, highlighting the natural intersection within the specified environmental or geographical context of [TAIL]",
+    " the [HEAD] associated with the confluence of the watercourse and the larger body of water, highlighting the natural intersection within the specified environmental or geographical context of [TAIL]"
+  ],
+  "P4552": [
+    "mountain range",
+    " The term 'mountain range' denotes the collective arrangement of mountains associated with [HEAD], emphasizing the interconnected and continuous nature of the elevated landforms within the specified environmental or geographical context of [TAIL]",
+    " the collective arrangement of mountains associated with [HEAD], emphasizing the interconnected and continuous nature of the elevated landforms within the specified environmental or geographical context of [TAIL]"
+  ],
+  "P264": [
+    "record label",
+    " The term 'record label' denotes the business organization responsible for producing, promoting, and distributing the musical recordings of [HEAD], highlighting their affiliation with the music industry within the specified domain or context of [TAIL]",
+    " the business organization responsible for producing, promoting, and distributing the musical recordings of [HEAD], highlighting their affiliation with the music industry within the specified domain or context of [TAIL]"
+  ],
+  "P413": [
+    "position played on team / speciality",
+    " The term 'position played on team / speciality' denotes the specific on-field or on-court role undertaken by [HEAD] during team-based sports activities, emphasizing their contribution to the team's overall performance within the specified domain or context of [TAIL]",
+    " the specific on-field or on-court role undertaken by [HEAD] during team-based sports activities, emphasizing their contribution to the team's overall performance within the specified domain or context of [TAIL]"
+  ],
+  "P463": [
+    "member of",
+    " The term 'member of' denotes the formal or informal connection between [HEAD] and the specified group, highlighting their association within the specified domain or context of [TAIL]",
+    " the formal or informal connection between [HEAD] and the specified group, highlighting their association within the specified domain or context of [TAIL]"
+  ],
+  "P39": [
+    "position held",
+    " The term 'position held' denotes the past or present occupation, responsibility, or status associated with [HEAD] in the specified domain or context of [TAIL]",
+    " the past or present occupation, responsibility, or status associated with [HEAD] in the specified domain or context of [TAIL]"
+  ],
+  "P155": [
+    "follows",
+    " The term 'follows' denotes the subsequent position or occurrence of [HEAD] in relation to the specified entity or event, highlighting the temporal or sequential connection within the specified domain or context of [TAIL]",
+    " the subsequent position or occurrence of [HEAD] in relation to the specified entity or event, highlighting the temporal or sequential connection within the specified domain or context of [TAIL]"
+  ],
+  "P991": [
+    "successful candidate",
+    " The term 'successful candidate' denotes [HEAD]'s accomplishment in being chosen or recognized positively within the specified selection process, highlighting their competence or suitability within the specified domain or context of [TAIL]",
+    " [HEAD]'s accomplishment in being chosen or recognized positively within the specified selection process, highlighting their competence or suitability within the specified domain or context of [TAIL]"
+  ],
+  "P241": [
+    "military branch",
+    " The term 'military branch' denotes the organizational segment or specialized division associated with [HEAD], emphasizing their connection to a particular aspect of the military within the specified domain or context of [TAIL]",
+    " the organizational segment or specialized division associated with [HEAD], emphasizing their connection to a particular aspect of the military within the specified domain or context of [TAIL]"
+  ],
+  "P800": [
+    "notable work",
+    " The term 'notable work' denotes a specific achievement, creation, or performance associated with [HEAD], highlighting its exceptional nature within the specified domain or context of [TAIL]",
+    " a specific achievement, creation, or performance associated with [HEAD], highlighting its exceptional nature within the specified domain or context of [TAIL]"
+  ],
+  "P921": [
+    "main subject",
+    " The term 'main subject' denotes the central or primary theme that [HEAD] is centered around, emphasizing its key area of focus within the specified domain or context of [TAIL]",
+    " the central or primary theme that [HEAD] is centered around, emphasizing its key area of focus within the specified domain or context of [TAIL]"
+  ],
+  "P641": [
+    "sport",
+    " The term 'sport' denotes the athletic or competitive endeavors in which [HEAD] participates, emphasizing their involvement in physical activities within the specified domain or context of [TAIL]",
+    " the athletic or competitive endeavors in which [HEAD] participates, emphasizing their involvement in physical activities within the specified domain or context of [TAIL]"
+  ],
+  "P364": [
+    "original language of film or TV show",
+    " The term 'original language of film or TV show' denotes the language in which [HEAD]'s content was originally presented or recorded, emphasizing its linguistic context within the specified domain or context of [TAIL]",
+    " the language in which [HEAD]'s content was originally presented or recorded, emphasizing its linguistic context within the specified domain or context of [TAIL]"
+  ],
+  "P1923": [
+    "participating team",
+    " The term 'participating team' denotes the engagement of [HEAD] as a collective unit in a particular event or competition, emphasizing its active involvement within the specified domain or context of [TAIL]",
+    " the engagement of [HEAD] as a collective unit in a particular event or competition, emphasizing its active involvement within the specified domain or context of [TAIL]"
+  ],
+  "P86": [
+    "composer",
+    " The term 'composer' denotes the role of [HEAD] as someone who actively engages in the creation of musical works, emphasizing their contribution to the field of music composition within the specified domain or context of [TAIL]",
+    " the role of [HEAD] as someone who actively engages in the creation of musical works, emphasizing their contribution to the field of music composition within the specified domain or context of [TAIL]"
+  ],
+  "P127": [
+    "owned by",
+    " The term 'owned by' denotes the ownership or control relationship where [HEAD] is the property or asset of another entity, emphasizing its status as being owned within the specified domain or context of [TAIL]",
+    " the ownership or control relationship where [HEAD] is the property or asset of another entity, emphasizing its status as being owned within the specified domain or context of [TAIL]"
+  ],
+  "P2094": [
+    "competition class",
+    " The term 'competition class' denotes the classification or grouping of [HEAD] within a particular competitive context, emphasizing its categorization within the specified domain or context of [TAIL]",
+    " the classification or grouping of [HEAD] within a particular competitive context, emphasizing its categorization within the specified domain or context of [TAIL]"
+  ],
+  "P306": [
+    "operating system",
+    " The term 'operating system' denotes the role of [HEAD] as a software component responsible for facilitating the interaction between computer hardware and software applications, emphasizing its function within the specified domain or context of [TAIL]",
+    " the role of [HEAD] as a software component responsible for facilitating the interaction between computer hardware and software applications, emphasizing its function within the specified domain or context of [TAIL]"
+  ],
+  "P140": [
+    "religion",
+    " The term 'religion' denotes the adherence or affiliation of [HEAD] to a specific set of spiritual or philosophical principles, emphasizing its connection to a particular belief system within the specified domain or context of [TAIL]",
+    " the adherence or affiliation of [HEAD] to a specific set of spiritual or philosophical principles, emphasizing its connection to a particular belief system within the specified domain or context of [TAIL]"
+  ],
+  "P999": [
+    "auto",
+    " The term 'auto' allow you to generate triplet as : [HEAD]: [TAIL]: [REL]: ",
+    " you should generate triplet as : [HEAD]: [TAIL]: [REL]: "
+  ],
+  "P276": [
+    "location",
+    " The term 'location' denotes the physical placement or presence of [HEAD] within a particular space, emphasizing its geographical context within the specified domain or context of [TAIL]",
+    " the physical placement or presence of [HEAD] within a particular space, emphasizing its geographical context within the specified domain or context of [TAIL]"
+  ],
+  "P108": [
+    "employer",
+    " The term 'employer' denotes the role of [HEAD] as an entity responsible for providing employment opportunities or engaging individuals in work activities, emphasizing its function within the specified domain or context of [TAIL]",
+    " the role of [HEAD] as an entity responsible for providing employment opportunities or engaging individuals in work activities, emphasizing its function within the specified domain or context of [TAIL]"
+  ],
+  "P1080": [
+    "from fictional universe",
+    " The term 'from fictional universe' denotes the origin or source of [HEAD] within a fictional or imaginary world, emphasizing its existence within a fabricated or invented context within the specified domain or context of [TAIL]",
+    " the origin or source of [HEAD] within a fictional or imaginary world, emphasizing its existence within a fabricated or invented context within the specified domain or context of [TAIL]"
+  ],
+  "P570": [
+    "date of death",
+    " The term 'date of death' denotes the time or moment when [HEAD] ceased to exist or passed away, emphasizing its termination or conclusion within the specified domain or context of [TAIL]",
+    " the time or moment when [HEAD] ceased to exist or passed away, emphasizing its termination or conclusion within the specified domain or context of [TAIL]"
+  ],
+  "P1269": [
+    "facet of",
+    " The term 'facet of' denotes the role of [HEAD] as a specific aspect or component of a broader or more complex entity, emphasizing its function or purpose within the specified domain or context of [TAIL]",
+    " the role of [HEAD] as a specific aspect or component of a broader or more complex entity, emphasizing its function or purpose within the specified domain or context of [TAIL]"
+  ],
+  "P425": [
+    "field of this occupation",
+    " The term 'field of this occupation' denotes the area or domain of expertise or specialization of [HEAD], emphasizing its focus or scope within the specified domain or context of [TAIL]",
+    " the area or domain of expertise or specialization of [HEAD], emphasizing its focus or scope within the specified domain or context of [TAIL]"
+  ],
+  "P452": [
+    "industry",
+    " The term 'industry' denotes the sector or branch of economic activity or production to which [HEAD] belongs, emphasizing its classification or categorization within the specified domain or context of [TAIL]",
+    " the sector or branch of economic activity or production to which [HEAD] belongs, emphasizing its classification or categorization within the specified domain or context of [TAIL]"
+  ],
+  "P571": [
+    "inception",
+    " The term 'inception' denotes the time or moment when [HEAD] was established or began to exist, emphasizing its origin or creation within the specified domain or context of [TAIL]",
+    " the time or moment when [HEAD] was established or began to exist, emphasizing its origin or creation within the specified domain or context of [TAIL]"
+  ],
+  "P802": [
+    "student",
+    " The term 'student' denotes the role of [HEAD] as an individual who is enrolled in an educational institution or program, emphasizing its function or status within the specified domain or context of [TAIL]",
+    " the role of [HEAD] as an individual who is enrolled in an educational institution or program, emphasizing its function or status within the specified domain or context of [TAIL]"
+  ],
+  "P840": [
+    "narrative location",
+    " The term 'narrative location' denotes the setting or place where the events or actions of [HEAD] take place, emphasizing its context or environment within the specified domain or context of [TAIL]",
+    " the setting or place where the events or actions of [HEAD] take place, emphasizing its context or environment within the specified domain or context of [TAIL]"
+  ],
+  "P366": [
+    "use",
+    " The term 'use' denotes the function or purpose of [HEAD] within a specific context or domain, emphasizing its utility or application within the specified domain or context of [TAIL]",
+    " the function or purpose of [HEAD] within a specific context or domain, emphasizing its utility or application within the specified domain or context of [TAIL]"
+  ],
+  "P647": [
+    "drafted by",
+    " The term 'drafted by' denotes the author or creator of [HEAD], emphasizing its origin or source within the specified domain or context of [TAIL]",
+    " the author or creator of [HEAD], emphasizing its origin or source within the specified domain or context of [TAIL]"
+  ],
+  "P81": [
+    "connecting line",
+    " The term 'connecting line' denotes the relationship or connection between [HEAD] and [TAIL], emphasizing their association or linkage within the specified domain or context of [TAIL]",
+    " the relationship or connection between [HEAD] and [TAIL], emphasizing their association or linkage within the specified domain or context of [TAIL]"
+  ],
+  "P577": [
+    "publication date",
+    " The term 'publication date' denotes the time or moment when [HEAD] was released or made available to the public, emphasizing its dissemination or availability within the specified domain or context of [TAIL]",
+    " the time or moment when [HEAD] was released or made available to the public, emphasizing its dissemination or availability within the specified domain or context of [TAIL]"
+  ],
+  "P53": [
+    "family",
+    " The term 'family' denotes the group or category to which [HEAD] belongs, emphasizing its classification or categorization within the specified domain or context of [TAIL]",
+    " the group or category to which [HEAD] belongs, emphasizing its classification or categorization within the specified domain or context of [TAIL]"
+  ],
+  "P735": [
+    "given name",
+    " The term 'given name' denotes the personal name or appellation of [HEAD], emphasizing its identification or designation within the specified domain or context of [TAIL]",
+    " the personal name or appellation of [HEAD], emphasizing its identification or designation within the specified domain or context of [TAIL]"
+  ],
+  "P272": [
+    "production company",
+    " The term 'production company' denotes the entity or organization responsible for creating or producing [HEAD], emphasizing its role or function within the specified domain or context of [TAIL]",
+    " the entity or organization responsible for creating or producing [HEAD], emphasizing its role or function within the specified domain or context of [TAIL]"
+  ],
+  "P360": [
+    "is a list of",
+    " The term 'is a list of' denotes the collection or compilation of [HEAD] as a group or set of items, emphasizing its aggregation or assembly within the specified domain or context of [TAIL]",
+    " the collection or compilation of [HEAD] as a group or set of items, emphasizing its aggregation or assembly within the specified domain or context of [TAIL]"
+  ],
+  "P162": [
+    "producer",
+    " The term 'producer' denotes the role of [HEAD] as an individual or entity responsible for creating or developing a product or service, emphasizing its function or activity within the specified domain or context of [TAIL]",
+    " the role of [HEAD] as an individual or entity responsible for creating or developing a product or service, emphasizing its function or activity within the specified domain or context of [TAIL]"
+  ],
+  "P54": [
+    "member of sports team",
+    " The term 'member of sports team' denotes the role of [HEAD] as an individual who is part of a sports team or organization, emphasizing its participation or involvement within the specified domain or context of [TAIL]",
+    " the role of [HEAD] as an individual who is part of a sports team or organization, emphasizing its participation or involvement within the specified domain or context of [TAIL]"
+  ],
+  "P737": [
+    "influenced by",
+    " The term 'influenced by' denotes the source or origin of [HEAD] as an entity or factor that has an impact or effect on its development or creation within the specified domain or context of [TAIL]",
+    " the source or origin of [HEAD] as an entity or factor that has an impact or effect on its development or creation within the specified domain or context of [TAIL]"
+  ],
+  "P179": [
+    "part of the series",
+    " The term 'part of the series' denotes the relationship or connection between [HEAD] and [TAIL], emphasizing their association or linkage within the specified domain or context of [TAIL]",
+    " the relationship or connection between [HEAD] and [TAIL], emphasizing their association or linkage within the specified domain or context of [TAIL]"
+  ],
+  "P676": [
+    "lyrics by",
+    " The term 'lyrics by' denotes the author or creator of the lyrics of [HEAD], emphasizing its origin or source within the specified domain or context of [TAIL]",
+    " the author or creator of the lyrics of [HEAD], emphasizing its origin or source within the specified domain or context of [TAIL]"
+  ],
+  "P1412": [
+    "languages spoken, written or signed",
+    " The term 'languages spoken, written or signed' denotes the languages or communication systems used by [HEAD], emphasizing its linguistic abilities or skills within the specified domain or context of [TAIL]",
+    " the languages or communication systems used by [HEAD], emphasizing its linguistic abilities or skills within the specified domain or context of [TAIL]"
+  ],
+  "P69": [
+    "educated at",
+    " The term 'educated at' denotes the educational institution or program where [HEAD] received instruction or training, emphasizing its learning or development within the specified domain or context of [TAIL]",
+    " the educational institution or program where [HEAD] received instruction or training, emphasizing its learning or development within the specified domain or context of [TAIL]"
+  ],
+  "P166": [
+    "award received",
+    " The term 'award received' denotes the recognition or honor bestowed upon [HEAD] for its achievements or contributions, emphasizing its distinction or merit within the specified domain or context of [TAIL]",
+    " the recognition or honor bestowed upon [HEAD] for its achievements or contributions, emphasizing its distinction or merit within the specified domain or context of [TAIL]"
+  ],
+  "P47": [
+    "shares border with",
+    " The term 'shares border with' denotes the geographical or territorial proximity between [HEAD] and [TAIL], emphasizing their adjacency or connection within the specified domain or context of [TAIL]",
+    " the geographical or territorial proximity between [HEAD] and [TAIL], emphasizing their adjacency or connection within the specified domain or context of [TAIL]"
+  ],
+  "P1552": [
+    "has quality",
+    " The term 'has quality' denotes the attribute or characteristic of [HEAD] that distinguishes or defines its nature or essence, emphasizing its property or feature within the specified domain or context of [TAIL]",
+    " the attribute or characteristic of [HEAD] that distinguishes or defines its nature or essence, emphasizing its property or feature within the specified domain or context of [TAIL]"
+  ],
+  "P569": [
+    "date of birth",
+    " The term 'date of birth' denotes the time or moment when [HEAD] was born or came into existence, emphasizing its origin or creation within the specified domain or context of [TAIL]",
+    " the time or moment when [HEAD] was born or came into existence, emphasizing its origin or creation within the specified domain or context of [TAIL]"
+  ],
+  "P186": [
+    "material used",
+    " The term 'material used' denotes the substance or component of [HEAD] that is utilized or employed in its creation or production, emphasizing its composition or content within the specified domain or context of [TAIL]",
+    " the substance or component of [HEAD] that is utilized or employed in its creation or production, emphasizing its composition or content within the specified domain or context of [TAIL]"
+  ],
+  "P138": [
+    "named after",
+    " The term 'named after' denotes the person or entity for whom [HEAD] is named or dedicated, emphasizing its association or connection within the specified domain or context of [TAIL]",
+    " the person or entity for whom [HEAD] is named or dedicated, emphasizing its association or connection within the specified domain or context of [TAIL]"
+  ],
+  "P279": [
+    "subclass of",
+    " This term 'subclass of' denotes the hierarchical relationship where [HEAD] is a more specialized type or subset of the category denoted by [TAIL].",
+    " the hierarchical relationship where [HEAD] is a more specialized type or subset of the category denoted by [TAIL]."
+  ],
+  "P20": [
+    "place of death",
+    " The term 'place of death' denotes the location or site where [HEAD] passed away or ceased to exist, emphasizing its termination or conclusion within the specified domain or context of [TAIL]",
+    " the location or site where [HEAD] passed away or ceased to exist, emphasizing its termination or conclusion within the specified domain or context of [TAIL]"
+  ],
+  "P2416": [
+    "sports discipline competed in",
+    " The term 'sports discipline competed in' denotes the category or type of sport or athletic activity in which [HEAD] participates or competes, emphasizing its engagement or involvement within the specified domain or context of [TAIL]",
+    " the category or type of sport or athletic activity in which [HEAD] participates or competes, emphasizing its engagement or involvement within the specified domain or context of [TAIL]"
+  ],
+  "P2389": [
+    "organization directed from the office or person",
+    " The term 'organization directed from the office or person' denotes the entity or group that is managed or overseen by [HEAD], emphasizing its leadership or control within the specified domain or context of [TAIL]",
+    " the entity or group that is managed or overseen by [HEAD], emphasizing its leadership or control within the specified domain or context of [TAIL]"
+  ],
+  "P607": [
+    "conflict",
+    " The term 'conflict' denotes the dispute or disagreement between [HEAD] and [TAIL], emphasizing their opposition or rivalry within the specified domain or context of [TAIL]",
+    " the dispute or disagreement between [HEAD] and [TAIL], emphasizing their opposition or rivalry within the specified domain or context of [TAIL]"
+  ],
+  "P50": [
+    "author",
+    " The term 'author' denotes the creator or originator of [HEAD], emphasizing its source or origin within the specified domain or context of [TAIL]",
+    " the creator or originator of [HEAD], emphasizing its source or origin within the specified domain or context of [TAIL]"
+  ],
+  "P1889": [
+    "different from",
+    " The term 'different from' denotes the distinction or dissimilarity between [HEAD] and [TAIL], emphasizing their contrast or divergence within the specified domain or context of [TAIL]",
+    " the distinction or dissimilarity between [HEAD] and [TAIL], emphasizing their contrast or divergence within the specified domain or context of [TAIL]"
+  ],
+  "P1056": [
+    "product or material produced",
+    " The term 'product or material produced' denotes the item or substance that is created or manufactured by [HEAD], emphasizing its origin or source within the specified domain or context of [TAIL]",
+    " the item or substance that is created or manufactured by [HEAD], emphasizing its origin or source within the specified domain or context of [TAIL]"
+  ],
+  "P30": [
+    "continent",
+    " The term 'continent' denotes the geographical region or landmass to which [HEAD] belongs, emphasizing its location or position within the specified domain or context of [TAIL]",
+    " the geographical region or landmass to which [HEAD] belongs, emphasizing its location or position within the specified domain or context of [TAIL]"
+  ],
+  "P19": [
+    "place of birth",
+    " The term 'place of birth' denotes the location or site where [HEAD] was born or came into existence, emphasizing its origin or creation within the specified domain or context of [TAIL]",
+    " the location or site where [HEAD] was born or came into existence, emphasizing its origin or creation within the specified domain or context of [TAIL]"
+  ],
+  "P530": [
+    "diplomatic relation",
+    " The term 'diplomatic relation' denotes the formal or official connection between [HEAD] and [TAIL], emphasizing their association or partnership within the specified domain or context of [TAIL]",
+    " the formal or official connection between [HEAD] and [TAIL], emphasizing their association or partnership within the specified domain or context of [TAIL]"
+  ],
+  "P144": [
+    "based on",
+    " The term 'based on' denotes the source or origin of [HEAD] as an entity or factor that serves as the foundation or inspiration for its creation or development within the specified domain or context of [TAIL]",
+    " the source or origin of [HEAD] as an entity or factor that serves as the foundation or inspiration for its creation or development within the specified domain or context of [TAIL]"
+  ],
+  "P121": [
+    "item operated",
+    " The term 'item operated' denotes the object or device that is used or controlled by [HEAD], emphasizing its function or purpose within the specified domain or context of [TAIL]",
+    " the object or device that is used or controlled by [HEAD], emphasizing its function or purpose within the specified domain or context of [TAIL]"
+  ],
+  "P170": [
+    "creator",
+    " The term 'creator' denotes the author or originator of [HEAD], emphasizing its source or origin within the specified domain or context of [TAIL]",
+    " the author or originator of [HEAD], emphasizing its source or origin within the specified domain or context of [TAIL]"
+  ],
+  "P37": [
+    "official language",
+    " The term 'official language' denotes the language or communication system used by [HEAD] as the primary or formal means of expression, emphasizing its status or function within the specified domain or context of [TAIL]",
+    " the language or communication system used by [HEAD] as the primary or formal means of expression, emphasizing its status or function within the specified domain or context of [TAIL]"
+  ],
+  "P397": [
+    "parent astronomical body",
+    " The term 'parent astronomical body' denotes the celestial object or entity from which [HEAD] originates or is derived, emphasizing its source or origin within the specified domain or context of [TAIL]",
+    " the celestial object or entity from which [HEAD] originates or is derived, emphasizing its source or origin within the specified domain or context of [TAIL]"
+  ],
+  "P734": [
+    "family name",
+    " The term 'family name' denotes the surname or last name of [HEAD], emphasizing its identification or designation within the specified domain or context of [TAIL]",
+    " the surname or last name of [HEAD], emphasizing its identification or designation within the specified domain or context of [TAIL]"
+  ],
+  "P36": [
+    "capital",
+    " The term 'capital' denotes the city or town that serves as the administrative or political center of [HEAD], emphasizing its status or function within the specified domain or context of [TAIL]",
+    " the city or town that serves as the administrative or political center of [HEAD], emphasizing its status or function within the specified domain or context of [TAIL]"
+  ],
+  "P1365": [
+    "replaces",
+    " The term 'replaces' denotes the entity or object that is substituted or replaced by [HEAD], emphasizing its succession or substitution within the specified domain or context of [TAIL]",
+    " the entity or object that is substituted or replaced by [HEAD], emphasizing its succession or substitution within the specified domain or context of [TAIL]"
+  ],
+  "P461": [
+    "opposite of",
+    " The term 'opposite of' denotes the contrast or antithesis between [HEAD] and [TAIL], emphasizing their opposition or contradiction within the specified domain or context of [TAIL]",
+    " the contrast or antithesis between [HEAD] and [TAIL], emphasizing their opposition or contradiction within the specified domain or context of [TAIL]"
+  ],
+  "P112": [
+    "founded by",
+    " The term 'founded by' denotes the individual or entity responsible for establishing or creating [HEAD], emphasizing its origin or source within the specified domain or context of [TAIL]",
+    " the individual or entity responsible for establishing or creating [HEAD], emphasizing its origin or source within the specified domain or context of [TAIL]"
+  ],
+  "P1589": [
+    "lowest point",
+    " The term 'lowest point' denotes the minimum or lowest level or position of [HEAD], emphasizing its depth or extent within the specified domain or context of [TAIL]",
+    " the minimum or lowest level or position of [HEAD], emphasizing its depth or extent within the specified domain or context of [TAIL]"
+  ],
+  "P190": [
+    "twinned administrative body",
+    " The term 'twinned administrative body' denotes the counterpart or partner of [HEAD] in a twinning relationship, emphasizing its association or connection within the specified domain or context of [TAIL]",
+    " the counterpart or partner of [HEAD] in a twinning relationship, emphasizing its association or connection within the specified domain or context of [TAIL]"
+  ],
+  "P161": [
+    "cast member",
+    " The term 'cast member' denotes the actor or performer who appears in [HEAD], emphasizing its role or function within the specified domain or context of [TAIL]",
+    " the actor or performer who appears in [HEAD], emphasizing its role or function within the specified domain or context of [TAIL]"
+  ],
+  "P376": [
+    "located on astronomical body",
+    " The term 'located on astronomical body' denotes the celestial object or entity on which [HEAD] is situated or found, emphasizing its position or location within the specified domain or context of [TAIL]",
+    " the celestial object or entity on which [HEAD] is situated or found, emphasizing its position or location within the specified domain or context of [TAIL]"
+  ]
+}
