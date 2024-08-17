@@ -120,7 +120,7 @@ def init_args():
     parser = argparse.ArgumentParser("getoutput")
     parser.add_argument('--device', default='cuda:0', type=str)    
     parser.add_argument('--batch_size', default=1, type=int)
-    parser.add_argument('--trainwelldown_model', default='/user_data/wujy/SimonHeye/META/outputs/bsz-1_ep-1_noreptile/fewrel/noactive/1712500116.131251/unseen_15_seed_0/best_extractor', type=str)
+    parser.add_argument('--trainwelldown_model', default='../META/outputs/bsz-1_ep-1_noreptile/fewrel/noactive/1712500116.131251/unseen_15_seed_0/best_extractor', type=str)
     parser.add_argument('--n_unseen', default=15, type=int)
     
     args = parser.parse_args()
