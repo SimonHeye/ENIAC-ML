@@ -124,14 +124,14 @@ def init_args():
     parser.add_argument('--n_unseen', default=15, type=int)
     
     args = parser.parse_args()
-    args.testdata_path = "/user_data/wujy/SimonHeye/META/data/baselinedata/fewrel/unseen_5_seed_0/one_test.jsonl"
-    args.relationfile_path = "/user_data/wujy/SimonHeye/Meta_Extra_Generation/data/rebel_dataset/testdata/relations_count.tsv"
+    args.testdata_path = "../META/data/baselinedata/fewrel/unseen_5_seed_0/one_test.jsonl"
+    args.relationfile_path = "../Meta_Extra_Generation/data/rebel_dataset/testdata/relations_count.tsv"
     
 
     args.task_type = "multi"
-    args.path_pred = f"/user_data/wujy/SimonHeye/META/outputs/bsz-4_ep-1_pipeline/fewrel/noactive/1712546678.1794293/unseen_15_seed_0/{args.task_type}/"
-    # args.gold_spilit_path= f"/user_data/wujy/SimonHeye/META/outputs/bsz-1_ep-1_noreptile/wiki/noactive/1713573648.3481178/unseen_15_seed_0/{args.task_type}/gold.json" 
-    args.gold_spilit_path= f"/user_data/wujy/SimonHeye/META/outputs/bsz-1_ep-1_noreptile/wiki/noactive/1713449268.7124434/unseen_5_seed_0/multi/gold.json"    
+    args.path_pred = f"../outputs/bsz-4_ep-1_pipeline/fewrel/noactive/1712546678.1794293/unseen_15_seed_0/{args.task_type}/"
+    # args.gold_spilit_path= f"../META/outputs/bsz-1_ep-1_noreptile/wiki/noactive/1713573648.3481178/unseen_15_seed_0/{args.task_type}/gold.json" 
+    args.gold_spilit_path= f"../META/outputs/bsz-1_ep-1_noreptile/wiki/noactive/1713449268.7124434/unseen_5_seed_0/multi/gold.json"    
     return args
 
 def getoutput(config):
@@ -149,7 +149,7 @@ def getoutput(config):
 
     Base_Trainer.Pipeline_predict(config.testdata_path, path_pred, model_path = config.trainwelldown_model, task_type = config.task_type, gold_spilit_path = config.gold_spilit_path)
 
-    path_pred = "/user_data/wujy/SimonHeye/META/outputs/bsz-1_ep-1_noreptile/wiki/noactive/1713449268.7124434/unseen_5_seed_0/multi/finpred_after.jsonl"
+    path_pred = "../META/outputs/bsz-1_ep-1_noreptile/wiki/noactive/1713449268.7124434/unseen_5_seed_0/multi/finpred_after.jsonl"
     results = compute_score_weight(path_pred, config.gold_spilit_path)
     print(json.dumps(results, indent=2))    
 
