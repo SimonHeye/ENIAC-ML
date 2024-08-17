@@ -76,9 +76,9 @@ class Trainer():
         # raw_model = self.model.t5.load_state_dict(updated_model_state_dict)
 
         # own_encoder = ExtractEncoder()
-        # t5_tokenizer = T5Tokenizer.from_pretrained('/user_data/wujy/SimonHeye/META/PretrainModel/t5-base')#这里
+        # t5_tokenizer = T5Tokenizer.from_pretrained('../META/PretrainModel/t5-base')#
         # t5_tokenizer.add_tokens(['[HEAD]', '[TAIL]', '[REL]', '[SENT]', '[rel_candidate]', '<triplet>', '[Relation_discribe]', '<Task1>', '<Task2>'])
-        # raw_model = T5ForConditionalGeneration.from_pretrained('/user_data/wujy/SimonHeye/META/PretrainModel/t5-base')
+        # raw_model = T5ForConditionalGeneration.from_pretrained('../META/PretrainModel/t5-base')
         # raw_model.to('cuda')
         # raw_model.resize_token_embeddings(len(t5_tokenizer))
         print("1:{}".format(torch.cuda.memory_allocated(0)))
@@ -221,7 +221,7 @@ class Trainer():
             
         self.opt.epochs=self.opt.train_extract_epochs
         self.optimizer, self.scheduler = self.get_optimizer()
-        self.train_data = self.process_Pipeline_ActiveMeta_Metric_data(self.train_dataset,label_set,self.relation_discribe)#这里
+        self.train_data = self.process_Pipeline_ActiveMeta_Metric_data(self.train_dataset,label_set,self.relation_discribe)#
         self.dev_data = self.process_Pipeline_ActiveMeta_Metric_data(self.dev_dataset,label_set,self.relation_discribe)
 
         random.seed(self.opt.seed)
@@ -332,7 +332,7 @@ class Trainer():
                 temp_train['decoder_input_ids'], temp_train['decoder_attention_mask'] = temp2['input_ids'], temp2['attention_mask']
                 
                 dis_id = trip.label_id
-                discribe = [relation_discribe[dis_id][1]] #这里
+                discribe = [relation_discribe[dis_id][1]] #
                 fin_discribe = '[relation_discribe]' + ': '.join(discribe)+'. '
 
                 # ipdb.set_trace()
@@ -375,7 +375,7 @@ class Trainer():
                 
                 dis_id = trip.label_id
                 dis_name = [relation_discribe[dis_id][0]]
-                discribe = [relation_discribe[dis_id][2]] #这里
+                discribe = [relation_discribe[dis_id][2]] #
                 # fin_discribe = dis_name + ': '.join(discribe)+'. '+'<triplet>: '
                 fin_discribe = f'{dis_name[0]}:{discribe[0]}. <triplet>:'
 
@@ -437,7 +437,7 @@ class Trainer():
                 
                 dis_id = trip.label_id
                 dis_name = [relation_discribe[dis_id][0]]
-                discribe = [relation_discribe[dis_id][2]] #这里
+                discribe = [relation_discribe[dis_id][2]] #
                 # fin_discribe = dis_name + ': '.join(discribe)+'. '+'<triplet>: '
                 fin_discribe = f'{dis_name[0]}:{discribe[0]}. <triplet>:'
 
@@ -500,7 +500,7 @@ class Trainer():
                 
                 dis_id = trip.label_id
                 dis_name = [relation_discribe[dis_id][0]]
-                discribe = [relation_discribe[dis_id][2]] #这里
+                discribe = [relation_discribe[dis_id][2]] #
                 # fin_discribe = dis_name + ': '.join(discribe)+'. '+'<triplet>: '
                 fin_discribe = f'{dis_name[0]}:{discribe[0]}.'
 
@@ -1276,11 +1276,11 @@ class Trainer():
     
     def pretrain_predict(self, model_path, device=torch.device("cuda:0")):
         data = self.test_dataloader
-        # accuracy_metric = evaluate.load("/user_data/wujy/SimonHeye/META/metrics/accuracy/accuracy.py")
-        F1_metric = evaluate.load("/user_data/wujy/SimonHeye/META/metrics/f1/f1.py")
-        precision_metric = evaluate.load("/user_data/wujy/SimonHeye/META/metrics/precision/precision.py")
-        recall_metric = evaluate.load("/user_data/wujy/SimonHeye/META/metrics/recall/recall.py")
-        # rouge_metic = evaluate.load("/user_data/wujy/SimonHeye/META/metrics/rouge/rouge.py")
+        # accuracy_metric = evaluate.load("../META/metrics/accuracy/accuracy.py")
+        F1_metric = evaluate.load("../META/metrics/f1/f1.py")
+        precision_metric = evaluate.load("../META/metrics/precision/precision.py")
+        recall_metric = evaluate.load("../META/metrics/recall/recall.py")
+        # rouge_metic = evaluate.load("../META/metrics/rouge/rouge.py")
         model = T5ForConditionalGeneration.from_pretrained(model_path)
         model = model.to(device)
         model.eval()
@@ -2627,7 +2627,7 @@ class test:
 
     def predict_multi(self, data, pred_labels, texts, sents, model_path, path_out, use_label_constraint=True, max_target_length=128, search_threshold=-0.9906, device=torch.device("cuda")):
         # data.sents = [s for s in data.sents if len(s.triplets) > 1]
-        # split_data_path = '/user_data/wujy/SimonHeye/META/outputs/bsz-1_ep-1_noreptile/fewrel/noactive/1712383059.494721/unseen_5_seed_0/split_data.json'
+        # split_data_path = '../META/outputs/bsz-1_ep-1_noreptile/fewrel/noactive/1712383059.494721/unseen_5_seed_0/split_data.json'
         # data.save(split_data_path)
         stem = Path(path_out).stem
         path_raw = path_out.replace(stem, f"{stem}_raw")
