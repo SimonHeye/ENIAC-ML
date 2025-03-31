@@ -50,7 +50,7 @@ def init_args():
     parser.add_argument('--maml_inner_loop', default=1, type=int)
 
     parser.add_argument('--seed', default=0, type=int)
-    parser.add_argument('--n_unseen', default=15, type=int) #这里
+    parser.add_argument('--n_unseen', default=5, type=int) #这里
     parser.add_argument('--task_num', default=1, type=int)
     parser.add_argument('--reptile_m', default=1, type=int)
     parser.add_argument('--dataset', default='fewrel', type=str, help='rebel,fewrel,wiki')#这里
